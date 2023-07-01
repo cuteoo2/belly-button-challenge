@@ -9,6 +9,8 @@ It uses a drop down menu to select an id corresponding to a test subject, goes o
 
 
 - OBJECTIVE
+
+
 The objective of this project is to build an interactive dashboard to explore the Belly Button Diversity dataset which catalogs the microbes colonizing human navels.
 
 
