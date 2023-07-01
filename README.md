@@ -17,6 +17,7 @@ The objective of this project is to build an interactive dashboard to explore th
 The dashboard includes:
 
 - bar chart featuring the top ten microbial species (OTUs or operational taxonomic units)
+  ![image](https://github.com/cuteoo2/belly-button-challenge/assets/122655370/54498929-71c0-4d67-94a8-4bd74b78adf9)
 
 - bubble chart featuring all microbial species
 
